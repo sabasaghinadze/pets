@@ -649,7 +649,7 @@ footer {
   nav .menu.active {
     right: 0;
   }
-  nav .manu .close-btn {
+  nav .menu .close-btn {
     position: absolute;
     top: 0;
     left: 0;
@@ -671,18 +671,18 @@ footer {
   .heropage {
     min-height: 100%;
   }
-  .hero-headline h1 {
+  .hero-headlins h1 {
     font-size: 24px;
   }
-  .hero-headline p {
+  .hero-headlines p {
     font-size: 14px;
   }
   .btn-3 {
     width: 126px;
-    height: 46px;
+    height: 40px;
     font-size: 16px;
   }
-  .hero-headline {
+  .hero-headlines {
     width: 100%;
     padding: 0px 20px;
   }
@@ -723,7 +723,7 @@ footer {
     flex-direction: column;
   }
   .btn-pets {
-    width: 230;
+    width: 230px;
   }
   .about {
     padding: 0px 20px;
